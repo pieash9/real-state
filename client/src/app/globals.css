@@ -82,6 +82,9 @@ body,
   }
 }
 
+button {
+  cursor: pointer;
+}
 .dashboard-container {
   @apply pt-8 pb-5 px-8;
 }
